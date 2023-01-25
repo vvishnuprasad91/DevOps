@@ -1,0 +1,2 @@
+welcome to git
+this is first file in git training
